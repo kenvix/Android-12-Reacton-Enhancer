@@ -3,4 +3,4 @@
 # ro.sf.lcd_density
 debug.hwui.force_dark=true
 persist.sys.fuse.passthrough.enable=true
-ro.hwui.use_vulkan=true
+# ro.hwui.use_vulkan=true
